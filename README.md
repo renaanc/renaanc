@@ -19,7 +19,7 @@
 <br><br>
 
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVqOWtmc3lhb2tkNmNpbmo5c3J4NG5ndmZkcjV2eXg3MjF1dXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuFALVnrfpNhm/giphy.gif" width="200">
+<img src="[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVqOWtmc3lhb2tkNmNpbmo5c3J4NG5ndmZkcjV2eXg3MjF1dXN2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GuFALVnrfpNhm/giphy.gif](https://upload.wikimedia.org/wikipedia/commons/7/7f/Rotating_earth_animated_transparent.gif)" width="200">
 </div>
 
 <div align="center">
