@@ -1,47 +1,126 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=051f2d"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6fa3fa"/>
 
 <div align="center">
 <samp>
-<b>🪐 Aspirante a Astrobiólogo</b>  
-<br>
-Oi! Eu sou o Renan, explorador do universo e das possibilidades entre biologia e o cosmos.
+<b>
+ 🚀 Astrobiology Enthusiast
+</b>
+ <br>
+ Hi there! I'm Renan  
+ <br>
+ Biology student and aspiring astrobiologist
 </samp>
 </div>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Astrobiologia-051f2d?style=flat&logo=spacex&logoColor=white" />
-<img src="https://img.shields.io/badge/Ciências%20Planetárias-7095a9?style=flat&logo=nasa&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML-e44d26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fseuusuario&s=21&c=bf91f3&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
+
+<br><br>
+
+<div align="center">
+<img src="https://imgur.com/zeuHIk9.gif" width="200">
+</div>
+
+<div align="center">
+<img src="https://img.shields.io/badge/renan_☆-black" />
+</div>
+
+<div align="center" width="100%">
+<img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=Based+in+Brazil;Biology+graduate+exploring+astrobiology;Science+and+education+for+a+better+world;Feel+free+to+connect!" alt="Typing SVG"/>
+</div>
+
+<br>
+
+<details align="center">  
+<summary>
+ <samp>
+   <b>More Info</b>
+ </samp>
+</summary>
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=7095A9&center=true&vCenter=true&width=800&lines=Aspirante+a+Astrobiólogo;Criador+curioso+por+natureza;Explorando+planetas%2C+códigos+e+ideias" alt="Typing SVG" />
+<img
+height=165
+align="center"
+alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api/?username=seuusuario&show_icons=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight&font=Iosevka"
+/>
+<img
+height=165
+align="center"
+alt="Top Language"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+/>
+<br><br>
+<img
+align="center"
+alt="Profile Details"
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seuusuario&theme=tokyonight"
+/>
+<br><br>
+<img
+height=154
+align="center"
+alt="Streak Stats"
+src="https://github-readme-streak-stats.herokuapp.com?user=seuusuario&theme=tokyonight&hide_border=true&card_width=885"
+/>
+</div>
+
+<br><br>
+
+<samp>
+<b>
+  Skills & Tools:
+</b>
+</samp>
+<br>
+
+<div align="center" style="display: inline_block"><br>
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
 </div>
 
 <br>
 
-### 🌐 Onde me encontrar
-
-<div align="center">
-<a href="https://www.instagram.com/seuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-051f2d?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/seuusuario" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-051f2d?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</div>
-
-<br>
+##
 
 <div align="center">
 <samp>
-<b>🔭 Sempre buscando novas formas de conectar a vida ao cosmos.</b>
+<b>
+ Contact me:
+</b>
 </samp>
+<br><br>
+
+[![Email](https://img.shields.io/badge/Email-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/seuperfil/)
+[![Notion](https://img.shields.io/badge/Notion-2e3440?style=for-the-badge&logo=notion&logoColor=fff)](https://notion.so/seulink)
+[![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/seuperfil)
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=051f2d&height=100&section=footer"/>
+<div align="center">
+<p align="center">
+ <samp>
+   ♡ <a href="https://rentry.co/seuperfil">rentry</a> ⊹
+   <a href="https://linktr.ee/seulinktree">linktr.ee</a> ⊹
+   <a href="https://byrenan.carrd.co/">carrd.co</a> ⊹
+   <a href="https://notion.so/seunotion">notion</a> ♡
+ </samp>
+</p>
+</div>
+
+##
+
+</details>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
