@@ -3,7 +3,7 @@
 <div align="center">
 <samp>
 <b>
- 🚀 Astrobiology Enthusiast
+ 🚀 Aspiring Astrobiologist 
 </b>
  <br>
  Hi there! I'm Renan  
